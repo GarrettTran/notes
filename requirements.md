@@ -27,7 +27,7 @@
 ## Activity with analytic tools support for user to keep track of the balance:
   + Activity log
   + Notifications for new expenses, settlements, or reminders about outstanding balances.
-- Expense-adding button will be added in the middle of the navbar
+## Expense-adding button will be added in the middle of the navbar
   + Entry: expense detail, amount, desc, payer(friends/new friends by ID/ groups)
   + Specify who is the payer and how the bill are going to split to other group members
   + Expense can be divided equally or customized based on rules or percentage
