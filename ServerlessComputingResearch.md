@@ -108,3 +108,40 @@
 ## 5.3 Developments of Benchmarking
 
 # 6 Conclusion
+
+# Article 2: The Serverless Computing Survey: A Technical Primer for Design Architecture
+## Abstract: 
+- serverless architecture is the most promising for deploying microservices
+- Decoupling architecture in 4 stack layers:
+  + Virtualization
+  + Encapsule
+  + System Orchestration
+  + System Coordination
+ 
+![image](https://github.com/user-attachments/assets/ffe4d7cb-d61a-4b30-9692-ca42ebda5cb1)
+![image](https://github.com/user-attachments/assets/a4808642-aaad-4868-98f7-861964b89c99)
+![image](https://github.com/user-attachments/assets/b34ff270-a5f8-434c-90a5-99104df4abeb)
+## 9. Conclusion
+- devs need to reorganize cloud applications into microservices to fit in the rise of cloud-natvie concept
+- fundamental aspects of serverless computing and provides a comprehensive depiction of 4 layers
+
+# Article 3: Modeling and Optimization of Performance and Cost of Serverless Applications
+# Abstract: 
+- the lack of analytical performance and billing model and the trade-off between limited budget and the desired quality of service of serverless applications
+- prediction and optimization of performance and cost of serverless applications
+- construct to formally define a serverless application workflow
+- implement analytical models to predict the average end-to-end response time and the cost of the workflow
+- Too much maths
+
+# Article 4: The State of Serverless Applications: Collection, Characterization, and Community Consensus
+## Abstract:
+- Collect description from 89 open-source projects.
+- Analyze 16 characteristic, why when how?
+- Compare to 10 mostly industrial, studies dataset
+- Help Managers decide adopting servess
+- Help Engineers learn about the current practices of building serverless app
+
+# article 5: Cold Start Latency in Serverless Computing: A Systematic Review, Taxonomy, and Future Directions
+## Abstract:
+- Systematic review
+- Cold start makes client less likely to change to serverless architecture
