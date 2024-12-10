@@ -91,7 +91,8 @@
 - sandbox env runs wrapped program that contains the target app fucntion
 - Then after this, the func is ready - application initialization
 - cache-based method, optimization on the sandbox init, check-point optimization
-- 
+- sandbox init optimization by using Unikernel and more lightweight hypervisor
+- save the state of instance in image and inject that in a running application can save startup time
 ### 3.2.2 Isolation
 ### 3.2.3 Scheduling Policy
 ### 3.2.4 Facility
